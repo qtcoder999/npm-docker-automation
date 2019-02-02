@@ -1,3 +1,1 @@
-cd "C:\Paras\repos\New\ecom-xt"
-npm install
-npm start
+start cmd /k "chdir /d C:\Paras\repos\New\ecom-xt\ & npm install & npm start"
